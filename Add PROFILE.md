@@ -1,2 +1,2 @@
-<Welcome to my GitHub profile!>
-<It takes a bit of work to understand this place>
+Welcome to my GitHub profile!
+It takes a while to understand this!
